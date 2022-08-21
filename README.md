@@ -1,4 +1,4 @@
-#                                                              Hi 👋 I'm Mahesh Reddy, a Data Analyst based in London.
+###                                                              Hi 👋 I'm Mahesh Reddy, a Data Analyst based in London.
 ❤ I love Open Source
 
 💻 I'm a self-taught Data Analyst
