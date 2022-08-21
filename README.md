@@ -10,8 +10,8 @@
 🛠  Tech Stack
 
 
-Python  JavaScript  PowerBi  Django  Hubspot 
+Python    JavaScript    PowerBi    Django    Hubspot 
 
-HTML  CSS  SQL  Git  GitHub  Markdown
+HTML    CSS    SQL    Git   GitHub   Markdown
 
 Visual Studio Code   
